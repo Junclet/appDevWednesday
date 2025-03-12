@@ -24,5 +24,6 @@ public class week5 {
         Intia.display();
         Ongue.display();
         Gigante.display();
+        Sapico.display();
     }
 }
